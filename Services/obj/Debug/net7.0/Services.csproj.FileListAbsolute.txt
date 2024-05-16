@@ -1,0 +1,17 @@
+D:\AM\practcie\crudADO\Services\bin\Debug\net7.0\Services.deps.json
+D:\AM\practcie\crudADO\Services\bin\Debug\net7.0\Services.dll
+D:\AM\practcie\crudADO\Services\bin\Debug\net7.0\Services.pdb
+D:\AM\practcie\crudADO\Services\bin\Debug\net7.0\Dbmodel.dll
+D:\AM\practcie\crudADO\Services\bin\Debug\net7.0\Repository.dll
+D:\AM\practcie\crudADO\Services\bin\Debug\net7.0\Dbmodel.pdb
+D:\AM\practcie\crudADO\Services\bin\Debug\net7.0\Repository.pdb
+D:\AM\practcie\crudADO\Services\obj\Debug\net7.0\Services.csproj.AssemblyReference.cache
+D:\AM\practcie\crudADO\Services\obj\Debug\net7.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\AM\practcie\crudADO\Services\obj\Debug\net7.0\Services.AssemblyInfoInputs.cache
+D:\AM\practcie\crudADO\Services\obj\Debug\net7.0\Services.AssemblyInfo.cs
+D:\AM\practcie\crudADO\Services\obj\Debug\net7.0\Services.csproj.CoreCompileInputs.cache
+D:\AM\practcie\crudADO\Services\obj\Debug\net7.0\Services.csproj.CopyComplete
+D:\AM\practcie\crudADO\Services\obj\Debug\net7.0\Services.dll
+D:\AM\practcie\crudADO\Services\obj\Debug\net7.0\refint\Services.dll
+D:\AM\practcie\crudADO\Services\obj\Debug\net7.0\Services.pdb
+D:\AM\practcie\crudADO\Services\obj\Debug\net7.0\ref\Services.dll

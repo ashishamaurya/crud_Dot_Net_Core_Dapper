@@ -1,0 +1,15 @@
+D:\AM\practcie\crudADO\Repository\bin\Debug\net7.0\Repository.deps.json
+D:\AM\practcie\crudADO\Repository\bin\Debug\net7.0\Repository.dll
+D:\AM\practcie\crudADO\Repository\bin\Debug\net7.0\Repository.pdb
+D:\AM\practcie\crudADO\Repository\bin\Debug\net7.0\Dbmodel.dll
+D:\AM\practcie\crudADO\Repository\bin\Debug\net7.0\Dbmodel.pdb
+D:\AM\practcie\crudADO\Repository\obj\Debug\net7.0\Repository.csproj.AssemblyReference.cache
+D:\AM\practcie\crudADO\Repository\obj\Debug\net7.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\AM\practcie\crudADO\Repository\obj\Debug\net7.0\Repository.AssemblyInfoInputs.cache
+D:\AM\practcie\crudADO\Repository\obj\Debug\net7.0\Repository.AssemblyInfo.cs
+D:\AM\practcie\crudADO\Repository\obj\Debug\net7.0\Repository.csproj.CoreCompileInputs.cache
+D:\AM\practcie\crudADO\Repository\obj\Debug\net7.0\Repository.csproj.CopyComplete
+D:\AM\practcie\crudADO\Repository\obj\Debug\net7.0\Repository.dll
+D:\AM\practcie\crudADO\Repository\obj\Debug\net7.0\refint\Repository.dll
+D:\AM\practcie\crudADO\Repository\obj\Debug\net7.0\Repository.pdb
+D:\AM\practcie\crudADO\Repository\obj\Debug\net7.0\ref\Repository.dll
